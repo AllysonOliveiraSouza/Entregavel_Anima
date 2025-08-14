@@ -1,0 +1,124 @@
+body {
+  font-family: "Instrument Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+  margin: 24px;
+}
+.card {
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 16px;
+  margin-bottom: 12px;
+  box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.329);
+}
+.card:hover {
+  transform: scale(1.01);
+  transition: ease-in-out 0.1s;
+  background-color: #592b82;
+  color: white !important;
+  box-shadow: 2px 4px 4px black;
+}
+
+.title {
+  font-size: 20px;
+  margin-bottom: 8px;
+}
+.meta {
+  font-size: 15.3px;
+}
+
+.anima-logo {
+  width: 150px;
+  height: 75px;
+}
+
+.btn-padrao {
+  font-family: "Instrument Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+  background-color: #592b82;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 15px;
+  font-size: 15px;
+  cursor: pointer;
+  box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.329);
+}
+
+.btn-padrao:hover {
+  transform: scale(1.02);
+  transition: ease-in-out 0.1s;
+}
+
+.input-text-padrao {
+  font-size: 15px;
+  padding: 10px;
+}
+
+.mr-5px {
+  margin-right: 5px;
+}
+
+.mt-5px {
+  margin-top: 5px;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.h-100 {
+  height: 100%;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.flex-align-center {
+  display: flex;
+  align-items: center;
+}
+
+.flex-all-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bg-sucess {
+  background-color: #00c851;
+}
+
+.bg-danger {
+  background-color: #f50029;
+}
+
+.color-purple {
+  color: #592b82;
+}
+
+.color-red {
+  color: #f50029;
+}
+
+.color-white {
+  color: white;
+}
+
+.fw-bold {
+  font-weight: bold;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.d-none {
+  display: none !important;
+}

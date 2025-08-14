@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8" />
+    <title>Mock - Hub Docente (Aba do Teams)</title>
+  </head>
+
+  <body>
+    <div class="flex-all-center">
+      <img src="img/logo-anima-roxo.png" alt="Ânima logo" class="anima-logo" />
+    </div>
+
+    <h1 class="text-center">Hub Docente - Próximos eventos</h1>
+    <div id="list"></div>
+
+    <div
+      class="d-flex"
+      style="margin-top: 15px; align-items: center; flex-wrap: wrap"
+    >
+      <button class="btn-padrao mr-5px" id="btn-ver-outros-dados">
+        Consultar eventos na Graph API
+      </button>
+      <button class="btn-padrao mr-5px bg-danger" id="btn-cancelar">
+        Cancelar
+      </button>
+
+      <span class="fw-bold mr-5px" id="span-inserir-token"
+        >Inserir Acess Token</span
+      >
+      <input
+        type="password"
+        id="txt-access-token"
+        class="input-text-padrao"
+        style="flex-grow: 1"
+      />
+    </div>
+
+    <script src="main.js"></script>
+  </body>
+</html>

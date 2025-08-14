@@ -1,0 +1,60 @@
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\app-console-v1\desafio-anima\bin\Debug\net8.0\desafio-anima.exe
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\app-console-v1\desafio-anima\bin\Debug\net8.0\desafio-anima.deps.json
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\app-console-v1\desafio-anima\bin\Debug\net8.0\desafio-anima.runtimeconfig.json
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\app-console-v1\desafio-anima\bin\Debug\net8.0\desafio-anima.dll
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\app-console-v1\desafio-anima\bin\Debug\net8.0\desafio-anima.pdb
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\app-console-v1\desafio-anima\obj\Debug\net8.0\desafio-anima.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\app-console-v1\desafio-anima\obj\Debug\net8.0\desafio-anima.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\app-console-v1\desafio-anima\obj\Debug\net8.0\desafio-anima.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\app-console-v1\desafio-anima\obj\Debug\net8.0\desafio-anima.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\app-console-v1\desafio-anima\obj\Debug\net8.0\desafio-anima.sourcelink.json
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\app-console-v1\desafio-anima\obj\Debug\net8.0\desafio-anima.dll
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\app-console-v1\desafio-anima\obj\Debug\net8.0\refint\desafio-anima.dll
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\app-console-v1\desafio-anima\obj\Debug\net8.0\desafio-anima.pdb
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\app-console-v1\desafio-anima\obj\Debug\net8.0\desafio-anima.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\app-console-v1\desafio-anima\obj\Debug\net8.0\ref\desafio-anima.dll
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\app-console-v2-graph-api\desafio-anima\bin\Debug\net8.0\desafio-anima.exe
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\app-console-v2-graph-api\desafio-anima\bin\Debug\net8.0\desafio-anima.deps.json
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\app-console-v2-graph-api\desafio-anima\bin\Debug\net8.0\desafio-anima.runtimeconfig.json
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\app-console-v2-graph-api\desafio-anima\bin\Debug\net8.0\desafio-anima.dll
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\app-console-v2-graph-api\desafio-anima\bin\Debug\net8.0\desafio-anima.pdb
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\app-console-v2-graph-api\desafio-anima\obj\Debug\net8.0\desafio-anima.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\app-console-v2-graph-api\desafio-anima\obj\Debug\net8.0\desafio-anima.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\app-console-v2-graph-api\desafio-anima\obj\Debug\net8.0\desafio-anima.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\app-console-v2-graph-api\desafio-anima\obj\Debug\net8.0\desafio-anima.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\app-console-v2-graph-api\desafio-anima\obj\Debug\net8.0\desafio-anima.sourcelink.json
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\app-console-v2-graph-api\desafio-anima\obj\Debug\net8.0\desafio-anima.dll
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\app-console-v2-graph-api\desafio-anima\obj\Debug\net8.0\refint\desafio-anima.dll
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\app-console-v2-graph-api\desafio-anima\obj\Debug\net8.0\desafio-anima.pdb
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\app-console-v2-graph-api\desafio-anima\obj\Debug\net8.0\desafio-anima.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\app-console-v2-graph-api\desafio-anima\obj\Debug\net8.0\ref\desafio-anima.dll
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\Backups\enunciado bonus console\app-console-v2-graph-api\desafio-anima\bin\Debug\net8.0\desafio-anima.exe
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\Backups\enunciado bonus console\app-console-v2-graph-api\desafio-anima\bin\Debug\net8.0\desafio-anima.deps.json
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\Backups\enunciado bonus console\app-console-v2-graph-api\desafio-anima\bin\Debug\net8.0\desafio-anima.runtimeconfig.json
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\Backups\enunciado bonus console\app-console-v2-graph-api\desafio-anima\bin\Debug\net8.0\desafio-anima.dll
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\Backups\enunciado bonus console\app-console-v2-graph-api\desafio-anima\bin\Debug\net8.0\desafio-anima.pdb
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\Backups\enunciado bonus console\app-console-v2-graph-api\desafio-anima\obj\Debug\net8.0\desafio-anima.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\Backups\enunciado bonus console\app-console-v2-graph-api\desafio-anima\obj\Debug\net8.0\desafio-anima.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\Backups\enunciado bonus console\app-console-v2-graph-api\desafio-anima\obj\Debug\net8.0\desafio-anima.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\Backups\enunciado bonus console\app-console-v2-graph-api\desafio-anima\obj\Debug\net8.0\desafio-anima.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\Backups\enunciado bonus console\app-console-v2-graph-api\desafio-anima\obj\Debug\net8.0\desafio-anima.sourcelink.json
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\Backups\enunciado bonus console\app-console-v2-graph-api\desafio-anima\obj\Debug\net8.0\desafio-anima.dll
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\Backups\enunciado bonus console\app-console-v2-graph-api\desafio-anima\obj\Debug\net8.0\refint\desafio-anima.dll
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\Backups\enunciado bonus console\app-console-v2-graph-api\desafio-anima\obj\Debug\net8.0\desafio-anima.pdb
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\Backups\enunciado bonus console\app-console-v2-graph-api\desafio-anima\obj\Debug\net8.0\desafio-anima.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\Backups\enunciado bonus console\app-console-v2-graph-api\desafio-anima\obj\Debug\net8.0\ref\desafio-anima.dll
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\Entregavel_Anima\app-console-graph-api\bin\Debug\net8.0\desafio-anima.exe
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\Entregavel_Anima\app-console-graph-api\bin\Debug\net8.0\desafio-anima.deps.json
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\Entregavel_Anima\app-console-graph-api\bin\Debug\net8.0\desafio-anima.runtimeconfig.json
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\Entregavel_Anima\app-console-graph-api\bin\Debug\net8.0\desafio-anima.dll
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\Entregavel_Anima\app-console-graph-api\bin\Debug\net8.0\desafio-anima.pdb
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\Entregavel_Anima\app-console-graph-api\obj\Debug\net8.0\desafio-anima.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\Entregavel_Anima\app-console-graph-api\obj\Debug\net8.0\desafio-anima.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\Entregavel_Anima\app-console-graph-api\obj\Debug\net8.0\desafio-anima.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\Entregavel_Anima\app-console-graph-api\obj\Debug\net8.0\desafio-anima.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\Entregavel_Anima\app-console-graph-api\obj\Debug\net8.0\desafio-anima.sourcelink.json
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\Entregavel_Anima\app-console-graph-api\obj\Debug\net8.0\desafio-anima.dll
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\Entregavel_Anima\app-console-graph-api\obj\Debug\net8.0\refint\desafio-anima.dll
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\Entregavel_Anima\app-console-graph-api\obj\Debug\net8.0\desafio-anima.pdb
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\Entregavel_Anima\app-console-graph-api\obj\Debug\net8.0\desafio-anima.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Processo Vaga Anima\Teste técnico\Entregavel_Anima\app-console-graph-api\obj\Debug\net8.0\ref\desafio-anima.dll
