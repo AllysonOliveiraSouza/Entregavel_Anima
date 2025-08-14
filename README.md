@@ -112,7 +112,7 @@ Para rodar este projeto web, você precisa garantir o seguinte ambiente:
 >
 > - 4 - Clique em **sign-in**, em seguida, entre com suas credenciais microsoft <br><br><img width="1348" height="384" alt="image" src="https://github.com/user-attachments/assets/0fd1e5e0-2ff3-4760-bf80-6dd61f27b232" />
 > - 5 - Após autenticar-se, acesse a aba **ACCESS TOKEN**, e copie o valor que está lá. <br><br><img width="721" height="250" alt="image" src="https://github.com/user-attachments/assets/73faee9a-c302-492a-9ee6-132c8530f0c0" />
-> - 6 - Com o token em mãos, é necessário guardar o valor em uma variável de ambiente do sistema. Exemplo no windows 10 : Vá na barra de pesquisa do Windows, e busque por **"Editar as variáveis do sistema"**
+> - 6 - Com o token em mãos, é necessário guardar o valor em uma variável de ambiente do sistema. Exemplo no windows 10 : Vá na barra de pesquisa do Windows, e busque por **"Editar as variáveis de ambiente do sistema"**
 > <br><br><img width="649" height="245" alt="image" src="https://github.com/user-attachments/assets/d35bcd21-28c0-4f18-9f16-b1bbc822045b" />
 > - 7 - Agora clique em **variáveis de ambiente**, depois clique em **novo(sessão variáveis do sistema)**. Preencha o "nome da variável" com **GRAPH_TOKEN** e o "valor da variável" com o token obtido. Para finalizar, clique em ok, depois ok, e ok novamente.  
 >   **Observação(Caso já tenha a variável GRAPH_TOKEN, clique em editar, e atualize o valor do token).**
